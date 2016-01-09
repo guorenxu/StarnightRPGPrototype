@@ -1,4 +1,4 @@
-This is Starnight, an isometric game prototype written in C++ and DirectX 9 during my senior year in high school. At the time, I played a few good isometric games like Dark Ages and I decided to make something similar.
+This is Starnight, an isometric game prototype written in C++ and DirectX 9 during my junior year in high school. At the time, I played a few good isometric games like Dark Ages and I decided to make something similar.
 
 Features:
 Draggable smoothly transitioning UI (made without any other API)
